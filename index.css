@@ -1,9 +1,22 @@
 body {
-   width: 1200px;
+   width: 800px;
    margin: 30px 200px;
+   background-color: beige;
+   border: 1px solid saddlebrown;
+   text-align: center;
 }
 
+#header {
+    background-color: aquamarine;
+    padding:10px;
+}
 
-.corpe {
-    text-align: center;
+#main {
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+
+.objectHTMLDivElement {
+    text-align: left;
+    
 }
